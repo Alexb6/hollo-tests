@@ -1,0 +1,15 @@
+{
+  "name": "available-time-range",
+  "version": "1.0.0",
+  "description": "Find available time ranges within a schedule of events",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Tran",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
